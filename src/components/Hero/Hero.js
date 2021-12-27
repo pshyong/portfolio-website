@@ -12,11 +12,12 @@ const Hero = (props) => (
         Patrick's Personal Portfolio
       </SectionTitle>
       <SectionText>
-        In this website, you will get to know Patrick Shyong's personal jorney to becoming a software developer, and what he's interested in building.
+        In this website, you will get to know Patrick Shyong's personal journey to becoming a software developer, and what he's interested in developing.
+        <br /> <br /> All credits of this website goes to Adrian Hajdin - JavaScript Mastery.
       </SectionText>
-      <Button onClick={() => window.location = 'https//:google.com'}>
+      {/* <Button onClick={() => window.location = 'about'}>
         Learn More
-      </Button>
+      </Button> */}
     </LeftSection>
   </Section>
 );
