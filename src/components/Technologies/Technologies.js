@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked Professionally with Microsoft Dynamics 365 Sales and Service, which involves C# and JavaScript. I've also worked with Power Automate. I have some backend experience with Node.js, and I am currently learning front-end technologies such as React and Redux.
+      I've worked professionally with Microsoft Dynamics 365 Sales and Service, which involves C# and JavaScript. I've also worked with Power Automate. I have some backend experience with Node.js, and I am currently learning frontend technologies such as React and Redux.
     </SectionText>
     <List>
 

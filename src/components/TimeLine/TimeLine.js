@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I started my journey in software development as my second Bachlor's degree at the University of Toronto Mississauga in 2016. <br />
-        My first job in the tech industry was a web app QA tester, and I worked a 14-months Co-op term with CGI. Now, I'm a part-time consultant with CGI, with the expectation to become full-time after I graduate in May 2022.
+        My first job in the tech industry was a web app QA tester. After my third year, I worked a 14-months Co-op term with CGI. Now, I'm a part-time consultant with CGI, with the expectation to become full-time after I graduate in May 2022.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
