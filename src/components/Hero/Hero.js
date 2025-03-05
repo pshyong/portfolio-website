@@ -8,12 +8,12 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        Patrick's Personal Portfolio
+        Hi. I'm Patrick<br />
+        
       </SectionTitle>
       <SectionText>
-        In this website, you will get to know Jiun Yenn (Patrick) Shyong's personal journey to becoming a software engineer, and what he's interested in developing.
-        <br /> <br /> All credits of this website goes to Adrian Hajdin - JavaScript Mastery.
+        I'm a software engineer with more than 5 years of technical and leadership experience. 
+        
       </SectionText>
       {/* <Button onClick={() => window.location = 'about'}>
         Learn More

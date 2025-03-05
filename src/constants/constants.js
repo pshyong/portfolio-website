@@ -40,4 +40,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Accepted a 14-months Co-op position at CGI.', },
   { year: 2021, text: 'Accepted a permanent part-time position at CGI, and resumed my last year at UTM.', },
   { year: 2022, text: 'Graduated from UTM - Computer Science Specialist with Distinction, and transitioned to full-time at CGI', },
+  { year: 2024, text: 'Led a cross-functional team to modernize monolithic applications into Java Microservices', },
 ];
