@@ -12,7 +12,11 @@ const Hero = (props) => (
         
       </SectionTitle>
       <SectionText>
-        I'm a software engineer with more than 5 years of technical and leadership experience. 
+        I'm a software engineer with more than 5 years of technical and leadership experience. <br/>
+        <br/>
+        
+        I believe that "change is the only constant in life" and I thrive on change with my persistence, curiosity, and dedication
+        
         
       </SectionText>
       {/* <Button onClick={() => window.location = 'about'}>
